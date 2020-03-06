@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+
+/DevOnProblem/bin
+/DevOnProblem/obj
+/DevOnProblem/.vs
